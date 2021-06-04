@@ -3522,3 +3522,96 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.03-23.17.54:847][344]AssetCheck: New page: Asset Save: multiple assets
 [2021.06.03-23.17.54:847][344]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Mapa/MapaCasa_BuiltData.MapaCasa_BuiltData
 [2021.06.03-23.17.54:847][344]LogContentValidation: Display: Validating World /Game/Mapa/MapaCasa.MapaCasa
+[2021.06.03-23.23.41:848][728]LogSlate: Window 'Message' being destroyed
+[2021.06.03-23.23.41:851][728]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Materiales/Vidrio.Vidrio
+(Selecting 'No' will cause all changes to be lost!)
+[2021.06.03-23.23.42:293][728]LogMaterial: Display: Missing cached shader map for material Vidrio, compiling. 
+[2021.06.03-23.23.42:341][728]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 26
+[2021.06.03-23.23.42:341][728]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 25
+[2021.06.03-23.23.42:341][728]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 24
+[2021.06.03-23.23.42:341][728]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 23
+[2021.06.03-23.23.42:341][728]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 22
+[2021.06.03-23.23.42:341][728]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 21
+[2021.06.03-23.23.42:341][728]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 20
+[2021.06.03-23.23.42:341][728]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 19
+[2021.06.03-23.23.42:369][728]LogMaterial: Display: Missing cached shader map for material Vidrio, compiling. 
+[2021.06.03-23.23.42:511][728]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2021.06.03-23.23.42:525][728]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.06.03-23.23.43:087][728]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 52
+[2021.06.03-23.23.43:087][728]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 51
+[2021.06.03-23.23.43:087][728]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 50
+[2021.06.03-23.23.43:087][728]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 49
+[2021.06.03-23.23.43:087][728]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 48
+[2021.06.03-23.23.43:087][728]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 47
+[2021.06.03-23.23.43:647][728]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 46
+[2021.06.03-23.23.43:647][728]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 45
+[2021.06.03-23.23.43:647][728]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 44
+[2021.06.03-23.23.43:647][728]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 43
+[2021.06.03-23.23.43:647][728]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 42
+[2021.06.03-23.23.44:203][728]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 41
+[2021.06.03-23.23.44:758][728]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 40
+[2021.06.03-23.23.45:867][728]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 39
+[2021.06.03-23.23.46:424][728]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 38
+[2021.06.03-23.23.46:424][728]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 37
+[2021.06.03-23.23.46:424][728]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 36
+[2021.06.03-23.23.46:983][728]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 35
+[2021.06.03-23.23.46:983][728]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 34
+[2021.06.03-23.23.46:983][728]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 33
+[2021.06.03-23.23.46:983][728]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 32
+[2021.06.03-23.23.47:135][728]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 27
+[2021.06.03-23.23.47:135][728]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 23
+[2021.06.03-23.23.47:141][728]TextureStreamingBuild: Display: Compiling optional shaders took 4.622 seconds.
+[2021.06.03-23.23.47:147][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2021.06.03-23.23.47:170][728]LogSlate: Window 'Vidrio_Inst' being destroyed
+[2021.06.03-23.23.47:172][728]LogSlate: Window 'Vidrio_Inst' being destroyed
+[2021.06.03-23.23.47:202][728]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.06.03-23.23.47:203][728]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.03-23.23.47:269][728]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2021.06.03-23.23.47:289][728]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2021.06.03-23.23.47:297][728]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2021.06.03-23.23.47:313][728]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.06.03-23.23.47:313][728]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.03-23.23.47:406][731]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 20
+[2021.06.03-23.23.48:458][783]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 17
+[2021.06.03-23.23.48:801][800]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 14
+[2021.06.03-23.23.49:883][865]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 12
+[2021.06.03-23.23.50:783][919]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2021.06.03-23.23.51:029][933]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2021.06.03-23.23.51:145][940]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 6
+[2021.06.03-23.23.51:950][988]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2021.06.03-23.23.53:083][ 56]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2021.06.03-23.23.53:149][ 60]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.06.03-23.23.53:768][ 96]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2021.06.03-23.23.54:394][131]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2021.06.03-23.28.04:988][344]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2021.06.03-23.28.05:693][344]LogSavePackage: Moving '../../../../../../Users/Oscar Lopez/Documents/GitHub/ProyectoRV3/ProyectoFinal/Saved/MapaCasa_Auto644D92F6A491FDC234C695C8AB58EE9F4.tmp' to '../../../../../../Users/Oscar Lopez/Documents/GitHub/ProyectoRV3/ProyectoFinal/Saved/Autosaves/Game/Mapa/MapaCasa_Auto6.umap'
+[2021.06.03-23.28.05:702][344]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Mapa/MapaCasa' took 0.724
+[2021.06.03-23.28.05:702][344]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.724
+[2021.06.03-23.28.05:703][344]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materiales/Vidrio_Inst] ([1] browsable assets)...
+[2021.06.03-23.28.05:736][344]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Materiales/Vidrio_Inst.Vidrio_Inst]
+[2021.06.03-23.28.05:736][344]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materiales/Vidrio_Inst]
+[2021.06.03-23.28.05:743][344]LogSavePackage: Moving '../../../../../../Users/Oscar Lopez/Documents/GitHub/ProyectoRV3/ProyectoFinal/Saved/Vidrio_Inst_Auto6C5567AEB4D8C0D3EE27D5BB96FC3CE5E.tmp' to '../../../../../../Users/Oscar Lopez/Documents/GitHub/ProyectoRV3/ProyectoFinal/Saved/Autosaves/Game/Materiales/Vidrio_Inst_Auto6.uasset'
+[2021.06.03-23.28.05:744][344]LogFileHelpers: Auto-saving content packages took 0.041
+[2021.06.03-23.29.13:963][706]Cmd: TRANSACTION UNDO
+[2021.06.03-23.29.13:963][706]LogEditorTransaction: Undo Create Actors
+[2021.06.03-23.29.13:976][706]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Mapa/MapaCasa.MapaCasa:PersistentLevel.ModelComponent_15564' invalid (24427 verts, 0 indices).
+[2021.06.03-23.29.13:976][706]LogPhysics: Warning: Attempt to build physics data for /Game/Mapa/MapaCasa.MapaCasa:PersistentLevel.ModelComponent_15564.BodySetup_0 when we are unable to.
+[2021.06.03-23.29.18:916][992]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.06.03-23.29.20:847][992]LogSlate: Window 'Save Content' being destroyed
+[2021.06.03-23.29.22:110][ 60]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materiales/WoodRough_a_Mat" FILE="../../../../../../Users/Oscar Lopez/Documents/GitHub/ProyectoRV3/ProyectoFinal/Content/Materiales/WoodRough_a_Mat.uasset" SILENT=true
+[2021.06.03-23.29.22:111][ 60]LogSavePackage: Moving '../../../../../../Users/Oscar Lopez/Documents/GitHub/ProyectoRV3/ProyectoFinal/Saved/WoodRough_a_MatC8CBF8194E7D3ABE9DD7568AAE20154E.tmp' to '../../../../../../Users/Oscar Lopez/Documents/GitHub/ProyectoRV3/ProyectoFinal/Content/Materiales/WoodRough_a_Mat.uasset'
+[2021.06.03-23.29.22:119][ 60]AssetCheck: New page: Asset Save: WoodRough_a_Mat
+[2021.06.03-23.29.22:119][ 60]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materiales/WoodRough_a_Mat.WoodRough_a_Mat
+[2021.06.03-23.30.20:966][542]Cmd: SELECT NONE
+[2021.06.03-23.30.34:399][332]Cmd: SELECT NONE
+[2021.06.03-23.32.13:599][529]Cmd: SELECT NONE
+[2021.06.03-23.32.58:165][186]Cmd: SELECT NONE
+[2021.06.03-23.33.05:568][628]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush53)
+[2021.06.03-23.33.12:774][ 46]Cmd: SELECT NONE
+[2021.06.03-23.33.25:558][813]Cmd: SELECT NONE
+[2021.06.03-23.38.12:266][909]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2021.06.03-23.38.12:745][909]LogSavePackage: Moving '../../../../../../Users/Oscar Lopez/Documents/GitHub/ProyectoRV3/ProyectoFinal/Saved/MapaCasa_Auto747EAA6E643AE84365F7B2B8AF82882F6.tmp' to '../../../../../../Users/Oscar Lopez/Documents/GitHub/ProyectoRV3/ProyectoFinal/Saved/Autosaves/Game/Mapa/MapaCasa_Auto7.umap'
+[2021.06.03-23.38.12:748][909]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Mapa/MapaCasa' took 0.492
+[2021.06.03-23.38.12:748][909]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.492
+[2021.06.04-00.19.07:697][366]Cmd: SELECT NONE
